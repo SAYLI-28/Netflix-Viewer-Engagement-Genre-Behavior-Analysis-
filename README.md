@@ -23,12 +23,18 @@ This project demonstrates proficiency in end-to-end data analysis workflow: from
 
 
 SCREENSHORT 1
-
+https://github.com/SAYLI-28/Netflix-Viewer-Engagement-Genre-Behavior-Analysis-/blob/main/NETFLIX%20CONTENT%20PIE%20CHART%20.png
 
 SCREENSHORT 2
-
+https://github.com/SAYLI-28/Netflix-Viewer-Engagement-Genre-Behavior-Analysis-/blob/main/POPULAR%20NETFLIX%20GENRES.png
 
 SCREENSHORT 3
-
+https://github.com/SAYLI-28/Netflix-Viewer-Engagement-Genre-Behavior-Analysis-/blob/main/OUTLIERS%20PLOTS%20.png
 
 SCREENSHORT 4
+https://github.com/SAYLI-28/Netflix-Viewer-Engagement-Genre-Behavior-Analysis-/blob/main/FINAL%20OUTCOME.png
+
+
+
+
+
